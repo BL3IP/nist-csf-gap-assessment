@@ -1,5 +1,7 @@
 # 13 — GRC: NIST CSF 2.0 Gap Assessment + Risk Register
 
+[![CI](https://github.com/BL3IP/nist-csf-gap-assessment/actions/workflows/ci.yml/badge.svg)](https://github.com/BL3IP/nist-csf-gap-assessment/actions/workflows/ci.yml)
+
 A governance, risk & compliance (GRC) package for a fictional company (**Northwind Trading**):
 a **NIST CSF 2.0** maturity gap assessment and a quantified risk register, with a tool that turns
 the data into a board-ready report.
