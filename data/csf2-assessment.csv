@@ -1,0 +1,21 @@
+Function,ID,Category,Current,Target
+GOVERN,GV.OC,Organizational Context,2,3
+GOVERN,GV.RM,Risk Management Strategy,1,3
+GOVERN,GV.RR,Roles Responsibilities and Authorities,2,3
+GOVERN,GV.PO,Policy,2,4
+GOVERN,GV.SC,Cybersecurity Supply Chain Risk Management,1,3
+IDENTIFY,ID.AM,Asset Management,2,4
+IDENTIFY,ID.RA,Risk Assessment,1,3
+IDENTIFY,ID.IM,Improvement,1,3
+PROTECT,PR.AA,Identity Management and Access Control,2,4
+PROTECT,PR.AT,Awareness and Training,1,3
+PROTECT,PR.DS,Data Security,2,4
+PROTECT,PR.PS,Platform Security,2,3
+PROTECT,PR.IR,Technology Infrastructure Resilience,1,3
+DETECT,DE.CM,Continuous Monitoring,1,4
+DETECT,DE.AE,Adverse Event Analysis,1,3
+RESPOND,RS.MA,Incident Management,2,4
+RESPOND,RS.AN,Incident Analysis,1,3
+RESPOND,RS.CO,Incident Response Reporting and Communication,2,3
+RECOVER,RC.RP,Incident Recovery Plan Execution,1,3
+RECOVER,RC.CO,Incident Recovery Communication,1,3

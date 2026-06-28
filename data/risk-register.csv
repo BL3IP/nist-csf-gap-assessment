@@ -1,0 +1,9 @@
+ID,Risk,CSF,Likelihood,Impact,Treatment,Owner
+R-01,No MFA on admin accounts enables account takeover,PR.AA,4,5,Mitigate,IT Security
+R-02,Unpatched internet-facing VPN (known CVE),PR.PS,4,5,Mitigate,Infrastructure
+R-03,No centralized logging or SIEM; blind to intrusions,DE.CM,5,4,Mitigate,SOC
+R-04,No tested incident response plan,RS.MA,3,5,Mitigate,CISO
+R-05,Backups never restore-tested,RC.RP,3,5,Mitigate,Infrastructure
+R-06,Third-party vendor with excessive data access,GV.SC,3,4,Transfer,Procurement
+R-07,Phishing susceptibility; no security awareness program,PR.AT,4,3,Mitigate,HR
+R-08,Sensitive data unencrypted at rest,PR.DS,2,5,Mitigate,Data Owner
